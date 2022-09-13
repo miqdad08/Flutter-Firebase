@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943151634052",
+    "project_id": "flutter-fire-d7430",
+    "storage_bucket": "flutter-fire-d7430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943151634052:android:dfeb081835dc7811e714d1",
+        "android_client_info": {
+          "package_name": "com.miqdad.flutter_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943151634052-rfvsf1qftq5g6ajgkeq04iam38n2i2t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCupdU3LxsipMah6_cpRxDQjLy6gmBtUDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943151634052-rfvsf1qftq5g6ajgkeq04iam38n2i2t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
